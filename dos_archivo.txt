@@ -1,1 +1,3 @@
-segundo archivo sin contenido
+Lorem ipsum
+
+segundo archivo sin contenido.

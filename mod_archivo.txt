@@ -1,1 +1,3 @@
-segundo archivo sin contenido y modificado
+segundo archivo sin contenido y modificado.
+
+Agregando líneas al archivo agregado por un colaborador.

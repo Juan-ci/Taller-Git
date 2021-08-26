@@ -1,1 +1,3 @@
-un nuevo archivo
+Un nuevo archivo.
+
+Cambios en la misma línea y agrego texto.
