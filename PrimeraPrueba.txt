@@ -1,1 +1,3 @@
-Este archivo txt es para la primera prueba con git
+Este archivo txt es para la primera prueba con git.
+
+Creando y resolviendo conflicto.
