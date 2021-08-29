@@ -1,3 +1,4 @@
 Este archivo txt es para la primera prueba con git.
 
-Generando conflicto
+Creando y resolviendo conflicto.
+
